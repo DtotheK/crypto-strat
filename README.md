@@ -36,7 +36,7 @@ Another area for improvement is that the input data is fixed, hardcoded to use D
 
 ## Typical Output
 
-'''
+```
    ___                 _        __ _             _   
   / __\ __ _   _ _ __ | |_ ___ / _\ |_ _ __ __ _| |_ 
  / / | '__| | | | '_ \| __/ _ \\ \| __| '__/ _` | __|
@@ -117,4 +117,4 @@ Gains	0.00		0.00
 ---------------------------------
 Total FIAT at start: 18,695.00
 Total FIAT at end: 81,407.406
-'''
+```
